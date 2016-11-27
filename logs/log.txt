@@ -1,0 +1,2 @@
+
+00:53:45.608 [main] FATAL by.dorohoch.fifthtask.parsing.GemHandler characters - No such element in GemEnum
